@@ -21,12 +21,12 @@ This is the frontend component of a responsive dashboard application built with 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yusufbahtiarr/frontend-pitjaru.git
+   git clone https://github.com/yusufbahtiarr/frontend-pitjarus.git
    ```
 
 2. Enter the project directory
    ```
-   cd frontend-pitjaru
+   cd frontend-pitjarus
    ```
 3. Install dependencies:
 
